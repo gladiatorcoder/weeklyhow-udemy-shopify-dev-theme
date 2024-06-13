@@ -1,0 +1,26 @@
+{
+  "name": "elizabeth",
+  "version": "1.0.0",
+  "description": "A development theme built on and for Shopify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/polidario/Elizabeth_Clean.git"
+  },
+  "keywords": [
+    "hello",
+    "world"
+  ],
+  "author": "Shotgun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/polidario/Elizabeth_Clean/issues"
+  },
+  "homepage": "https://github.com/polidario/Elizabeth_Clean#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.4.3"
+  }
+}
